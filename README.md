@@ -1,1 +1,5 @@
-Find the README file in your folder, and edit as described below.
+#About Me.
+##My Interests
+I enjoy playing video games and going on runs through the neighborhood.
+##Websites I Recommend
+Two websites I recommend are [Steam](store.steampowered.com) which is a digital store to purchase and manage games and the [Mises Institute](mises.org) has some really interesting reads.
